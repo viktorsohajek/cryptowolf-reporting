@@ -1,0 +1,10 @@
+dash
+dash_core_components
+dash_html_components
+pandas_datareader
+datetime
+pandas
+dash_renderer
+colorlover
+numpy
+plotly
